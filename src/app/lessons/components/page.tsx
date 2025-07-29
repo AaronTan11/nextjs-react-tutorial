@@ -1,5 +1,5 @@
 import Link from "next/link";
-
+import Test from "./test";
 export default function ComponentsLesson() {
 	// 🎯 EXPERIMENT: Change these values and watch the page update!
 	const showWelcome = true; // Try: false
@@ -7,7 +7,7 @@ export default function ComponentsLesson() {
 	const theme = "modern"; // Try: "retro", "minimal", "colorful"
 
 	// 🎯 CHANGE THIS: Try different user information
-	const userName = "Alex"; // Try your own name!
+	const userName = "wei hup"; // Try your own name!
 	const userRole = "Student"; // Try: "Developer", "Designer", "Teacher"
 	const isLoggedIn = true; // Try: false
 

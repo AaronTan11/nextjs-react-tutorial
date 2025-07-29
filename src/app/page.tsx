@@ -6,7 +6,7 @@ export default function Home() {
 	const quickLesson = "components"; // Try: "props", "state", "events", "lists"
 
 	// 🎯 EXPERIMENT: Change this to see different tutorial modes
-	const showBeginner = true; // Try: false for advanced mode
+	const showBeginner = false; // Try: false for advanced mode
 
 	const lessons = [
 		{

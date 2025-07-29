@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function PropsLesson() {
 	// 🎯 EXPERIMENT: Change these props and see how they flow to child components!
 	const productName = "iPhone 15 Pro"; // Try: "MacBook Air", "AirPods Pro", "Apple Watch"
-	const productPrice = 999; // Try: 1299, 199, 399
+	const productPrice = 2999; // Try: 1299, 199, 399
 	const productRating = 4.8; // Try: 3.5, 5.0, 4.2
 	const productInStock = true; // Try: false
 	const productImage = "📱"; // Try: "💻", "🎧", "⌚"
